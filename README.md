@@ -2,8 +2,11 @@
 -Create react App
 -Configured Tailwind
 -Header
+-Routing
     -Login Form
     -Sign Up Form
+    -Form Validation
+    -UseRef Hook
 
 
 #Features
